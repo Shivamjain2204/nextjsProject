@@ -13,9 +13,9 @@ function HeroSection() {
 
         <div className='p-4 relative z-10 w-full text-center '>
 
-            <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Hero section</h1>
+            <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">All the skills you need in one place</h1>
             
-            <p  className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati veritatis itaque asperiores ipsam soluta ratione enim recusandae saepe reiciendis facilis nesciunt praesentium, fuga eos facere est ex velit repellendus laudantium!</p>
+            <p  className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">From critical workplace skills to technical topics, our catalog supports well-rounded professional development. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential.</p>
 
             <div className="mt-4">
                 <Link href={"/courses"}>
