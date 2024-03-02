@@ -6,12 +6,10 @@ function Footer() {
         <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 sm:px-6 lg:px-8">
 
           <div>
-          <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
-          <p className="mb-4">
-            Music School is a premier institution dedicated to teaching the art
-            and science of music. We nurture talent from the ground up,
-            fostering a vibrant community of musicians.
-          </p>
+            <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
+            <p className="mb-4">
+            Welcome to CodeSphere, where we pave the way for your tech mastery journey. Our platform is designed to empower individuals with the skills they need to thrive in the dynamic and ever-evolving world of technology.
+            </p>
           </div>
 
 
@@ -36,7 +34,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="/courses"
                 className="hover:text-white transition-colors duration-300"
               >
                 Courses
@@ -44,7 +42,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="/contact"
                 className="hover:text-white transition-colors duration-300"
               >
                 Contact
@@ -58,19 +56,19 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://www.linkedin.com/in/shivam-jain2204/"
               className="hover:text-white transition-colors duration-300"
             >
-              Facebook
+              LinkedIn
             </a>
             <a
-              href="#"
+              href="https://twitter.com/Shivamjain013"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/shivamchhajed/"
               className="hover:text-white transition-colors duration-300"
             >
               Instagram
@@ -81,10 +79,10 @@ function Footer() {
 
           <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>New Delhi, India</p>
-          <p>Delhi 10001</p>
-          <p>Email: info@musicschool.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Bengaluru, India</p>
+          <p>Hulimavu 560076</p>
+          <p>Email: jainshivam2204@gmail.com</p>
+          <p>Phone: (+91) 7620150801 </p>
           </div>
 
 
